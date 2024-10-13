@@ -14,7 +14,7 @@ for package in required_packages:
         install(package)
 
 
-
+#main code starts here
 # required_packages -> pip install google_image_fetcher
 
 from google_image_fetcher.google_image_fetcher import GoogleImageFetcher
